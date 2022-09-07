@@ -49,4 +49,7 @@ footer{
     display: flex;
     
 }
+li{
+    list-style: none;
+}
 
